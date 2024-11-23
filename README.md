@@ -9,6 +9,6 @@ framework and tools used: spark, spring, vue.js(echarts), hdfs (tried to use), M
 3. Used spring for backend api
 4. Created interactive visual charts using Vue.js with ECharts library.
 
-example charts: 
+example charts:<br> 
 <img width="705" alt="Screenshot 2024-11-22 at 8 39 56 PM" src="https://github.com/user-attachments/assets/632fab59-0222-41da-8d8c-3e7a10bf575b">
 <img width="705" alt="Screenshot 2024-11-22 at 8 41 06 PM" src="https://github.com/user-attachments/assets/f228d137-4227-41f4-a302-40b148b287cc">
